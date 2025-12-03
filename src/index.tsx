@@ -19,6 +19,7 @@ import localforage from 'localforage';
 
 import '@ant-design/v5-patch-for-react-19';
 import './index.scss';
+import './i18n/config.ts';
 
 initializeTheme();
 
